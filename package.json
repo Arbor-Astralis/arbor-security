@@ -1,0 +1,25 @@
+{
+  "name": "arbor-security",
+  "version": "1.0.0",
+  "description": "A Discord bot to provide security utilities for [Arbor Astralis](https://disboard.org/server/1210865909321957376).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arbor-Astralis/arbor-security.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Arbor-Astralis/arbor-security/issues"
+  },
+  "homepage": "https://github.com/Arbor-Astralis/arbor-security#readme",
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "tsc": "^2.0.4"
+  }
+}
