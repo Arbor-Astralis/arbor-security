@@ -80,7 +80,7 @@ public final class App {
         for (AppModule module : modules) {
             for (AppCommand appCmd : module.createCommands()) {
                 ApplicationCommandRequest request = appCmd.createRequest();
-                appSvc.createGuildApplicationCommand(appId, 993144530599673898L, request).subscribe();
+                appSvc.createGlobalApplicationCommand(appId, request).subscribe();
                 appCommands.put(request.name(), appCmd);
             }
         }
