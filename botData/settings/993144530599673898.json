@@ -1,0 +1,23 @@
+{
+  "general" : {
+    "staffRoleId" : 1254252931264417918,
+    "maintainerRoleId" : 1254253023413403649
+  },
+  "screener" : {
+    "accountAgeThresholdDays" : 14,
+    "kickEmptyPfp" : true,
+    "newMemberLandingChannelId" : 1216757380050845778
+  },
+  "stickies" : {
+    "stickiesByChannelId" : {
+      "993144530599673901" : {
+        "lastStickyMessageId" : 1432930410048000194,
+        "content" : "Tst"
+      }
+    }
+  },
+  "vetBan" : {
+    "modRoleId" : 1254252931264417918,
+    "joinDayThreshold" : 14
+  }
+}

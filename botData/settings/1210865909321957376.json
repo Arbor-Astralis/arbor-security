@@ -1,0 +1,10 @@
+{
+  "general" : {
+    "staffRoleId" : 1212250722352111667,
+    "maintainerRoleId" : 1211174084424106056
+  },
+  "vetBan" : {
+    "modRoleId" : 1212251326256521286,
+    "joinDayThreshold" : 14
+  }
+}

@@ -1,0 +1,7 @@
+/vet-ban <user-id>
+  - trigger user must have a predefined role
+  - user-id must not be a bot
+  - user-id must not be staff
+  - user-id must be a member of the server
+  - user-id must have a join age < 14 days
+
