@@ -3,6 +3,16 @@
     "staffRoleId" : 1212250722352111667,
     "maintainerRoleId" : 1211174084424106056
   },
+  "screener" : {
+    "accountAgeThresholdDays" : 14,
+    "kickEmptyPfp" : true,
+    "newMemberLandingChannelId" : 1211178771764346950
+  },
+  "stickies" : {
+    "stickiesByChannelId" : {
+      
+    }
+  },
   "vetBan" : {
     "modRoleId" : 1212251326256521286,
     "joinDayThreshold" : 14
