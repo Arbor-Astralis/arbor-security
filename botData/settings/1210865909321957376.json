@@ -6,11 +6,39 @@
   "screener" : {
     "accountAgeThresholdDays" : 14,
     "kickEmptyPfp" : true,
+    "autoModExemptUserIds" : null,
     "newMemberLandingChannelId" : 1211178771764346950
   },
   "stickies" : {
     "stickiesByChannelId" : {
-      
+      "1212281411373895761" : {
+        "lastStickyMessageId" : 1432947866950963383,
+        "content" : "## \uD83D\uDD90️ If You Want To Bump\n\nPlease be around for the next 10-20 minutes ready to greet new members in <#1211178771764346950>"
+      },
+      "1212526482266529832" : {
+        "lastStickyMessageId" : 1432948539096305765,
+        "content" : "## \uD83D\uDCA1 Frame Your Favourite Moments In The Server\n\nGot a memoriable moment for the years to come? Send a screenshot in <#1254426944687177759> and ask staff to put it here!"
+      },
+      "1212256068869160970" : {
+        "lastStickyMessageId" : 1432949120779423794,
+        "content" : "## ℹ️  This is a Media-Only Channel\n\nOnly links, images or videos can be posted. **Create a new thread for conversations or they will be auto-deleted.**"
+      },
+      "1212256005275000892" : {
+        "lastStickyMessageId" : 1432949835455004796,
+        "content" : "## ℹ️  This is a Media-Only Channel\n\nOnly links, images or videos can be posted. **Create a new thread for conversations or they will be auto-deleted.**"
+      },
+      "1212256034572345405" : {
+        "lastStickyMessageId" : 1432949945383522395,
+        "content" : "## ℹ️  This is a Media-Only Channel\n\nOnly links, images or videos can be posted. **Create a new thread for conversations or they will be auto-deleted.**"
+      },
+      "1212255954423521291" : {
+        "lastStickyMessageId" : 1432950061859606621,
+        "content" : "## ℹ️  This is a Media-Only Channel\n\nOnly links, images or videos can be posted. **Create a new thread for conversations or they will be auto-deleted.**"
+      },
+      "1212285459712180265" : {
+        "lastStickyMessageId" : 1432950905321426965,
+        "content" : "## \uD83D\uDC4B Welcome to the Arbor!\n-# Here's a template for your introduction\n\n✦﹒Name :\n✦﹒Age :\n✦﹒Preferred pronouns :\n✦﹒Likes :\n✦﹒Dislikes :\n✦﹒A fun fact about yourself :"
+      }
     }
   },
   "vetBan" : {

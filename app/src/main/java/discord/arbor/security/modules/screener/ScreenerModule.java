@@ -49,7 +49,7 @@ public final class ScreenerModule implements AppModule {
         
         Snowflake userId = Snowflake.of(member.getUserData().id().asLong());
         
-        if (settings.screener.autoModExemptUserIds.contains(userId.asLong())) {
+        if (settings.screener.autoModExemptUserIds != null && settings.screener.autoModExemptUserIds.contains(userId.asLong())) {
             return Mono.empty();
         }
         

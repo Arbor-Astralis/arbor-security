@@ -6,12 +6,13 @@
   "screener" : {
     "accountAgeThresholdDays" : 14,
     "kickEmptyPfp" : true,
+    "autoModExemptUserIds" : null,
     "newMemberLandingChannelId" : 1216757380050845778
   },
   "stickies" : {
     "stickiesByChannelId" : {
       "993144530599673901" : {
-        "lastStickyMessageId" : 1432930410048000194,
+        "lastStickyMessageId" : 1432956322441072642,
         "content" : "Tst"
       }
     }
